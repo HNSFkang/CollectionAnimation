@@ -1,0 +1,2 @@
+# CollectionAnimation
+改变collection view每列单元格数量的简单动画
